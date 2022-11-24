@@ -14,7 +14,7 @@
 
 ## About Us
 
-### NewMD is an organization that dedicated to the improvement of user experiences of Mingdao High School's current website.
+#### NewMD is an organization dedicated to improving user experiences of Mingdao High School's current website. Our goals are to improve the loading time of the timetable, decrease the chance for the website to crash, and beautify the appearance of the timetable.
 
 <br></br>
 
@@ -24,14 +24,14 @@
 
   <a href="https://newmd.eu.org"><img src="https://i.ibb.co/W0WjRL1/logo-web.png" alt="logo-web" border="0" width="250px"></a>
 
-  ###### - a beautiful version of Mingdao high school's timetable website.
+  ###### - a beautiful & faster version of Mingdao high school's timetable website.
 
   #### Website : [newmd.eu.org](https://newmd.eu.org "NewMD's website")
 
   Framwork :
   - React
 
-  Technology used in development :
+  Technologies used in development :
   - Node.js
   - JavaScript
   - axios
@@ -39,10 +39,11 @@
 - ### [NewMD-Backend](https://github.com/NewMD-org/NewMD-Backend "NewMD's Backend")
 
   ###### - the backend API for NewMD website.
+
   Framwork :
   - Express.js
 
-  Technology used in development :
+  Technologies used in development :
   - Node.js
   - JavaScript
   - axios

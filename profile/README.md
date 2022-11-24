@@ -8,13 +8,13 @@
 
 # [NewMD](https://newmd.eu.org)
 
-#### a beautiful version of Mingdao high school's timetable website
+### ***a beautiful & faster version of Mingdao high school's timetable website.***
 
 <br></br>
 
 ## About Us
 
-### NewMD is an organization that dedicated to the improvement of Mingdao High School's current website.
+### NewMD is an organization that dedicated to the improvement of user experiences of Mingdao High School's current website.
 
 <br></br>
 

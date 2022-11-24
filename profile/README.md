@@ -20,12 +20,13 @@
 
 ## Projects
 
-- ### Frontend
-  <a href="https://newmd.eu.org"><img src="https://i.ibb.co/W0WjRL1/logo-web.png" alt="logo-web" border="0" width="250px"></a>
-  
-  #### Website : [newmd.eu.org](https://newmd.eu.org "NewMD's website")
+- ### [NewMD-Frontend](https://github.com/NewMD-org/NewMD-Frontend "NewMD's Frontend")
 
-  Repository : [NewMD-Frontend](https://github.com/NewMD-org/NewMD-Frontend "NewMD's Frontend")
+  <a href="https://newmd.eu.org"><img src="https://i.ibb.co/W0WjRL1/logo-web.png" alt="logo-web" border="0" width="250px"></a>
+
+  ###### - a beautiful version of Mingdao high school's timetable website.
+
+  #### Website : [newmd.eu.org](https://newmd.eu.org "NewMD's website")
 
   Framwork :
   - React
@@ -35,9 +36,9 @@
   - JavaScript
   - axios
 
-- ### Backend
-  Repository : [NewMD-Backend](https://github.com/NewMD-org/NewMD-Backend "NewMD's Backend")
-  
+- ### [NewMD-Backend](https://github.com/NewMD-org/NewMD-Backend "NewMD's Backend")
+
+  ###### - the backend API for NewMD website.
   Framwork :
   - Express.js
 

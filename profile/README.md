@@ -1,6 +1,6 @@
-<h6><em>Chinese user? Feel free to visit <a href="https://github.com/NewMD-org/.github/blob/main/profile/README_zh-TW.md">Chinese page</a></em></h6>
-
-<br></br>
+<br>
+  <h6><em>Chinese user? Feel free to visit <a href="https://github.com/NewMD-org/.github/blob/main/profile/README_zh-TW.md">Chinese page</a></em></h6>
+</br>
 
 <a href="https://newmd.eu.org">
   <img src="https://i.ibb.co/y0gKj29/logo512.png" align="left" width="150px"/>

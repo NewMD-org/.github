@@ -14,7 +14,8 @@
 
 ## About Us
 
-#### NewMD is an organization dedicated to improving user experiences of Mingdao High School's current website. Our goals are to improve the loading time of the timetable, decrease the chance for the website to crash, and beautify the appearance of the timetable.
+NewMD is an organization dedicated to improving user experiences of Mingdao High School's current website.  
+Our goals are to improve the loading time of the timetable, decrease the chance for the website to crash, and beautify the appearance of the timetable.
 
 <br></br>
 

@@ -1,5 +1,5 @@
 <br>
-  <h6><em>Chinese user? Feel free to visit <a href="https://github.com/NewMD-org/.github/blob/main/profile/README_zh-TW.md">Chinese page</a></em></h6>
+  <h6><em>中文使用者? 請造訪<a href="https://github.com/NewMD-org/.github/blob/main/profile/README_zh-TW.md">中文版頁面</a></em></h6>
 </br>
 
 <a href="https://newmd.eu.org">

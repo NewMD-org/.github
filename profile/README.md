@@ -65,7 +65,7 @@ More details : [**Better Uptime**](https://status.newmd.eu.org)
 
 ### Home page status
 
-<a href="https://betteruptime.com/?utm_source=status_badge" target="_blank" title="Betteruptime Status">
+<a href="https://status.newmd.eu.org" target="_blank" title="Betteruptime Status">
   <img height="30px" src="https://betteruptime.com/status-badges/v1/monitor/k1y7.svg">
 </a>
 

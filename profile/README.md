@@ -49,3 +49,6 @@ Our goals are to improve the loading time of the timetable, decrease the chance 
   - JavaScript
   - axios
   - MongoDB
+
+## Uptime monitors
+### [**Better Uptime**](https://status.newmd.eu.org)

@@ -27,7 +27,7 @@ Our goals are to improve the loading time of the timetable, decrease the chance 
 
   ###### - a beautiful & faster version of Mingdao high school's timetable website.
 
-  #### Website : [newmd.eu.org](https://newmd.eu.org "NewMD's website")
+  <p><h3>🌟Website is now available on <a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a></h3></p>
 
   Framwork :
   - React

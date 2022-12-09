@@ -51,7 +51,7 @@ NewMD 是一個致力於改善現有明道中學課表網頁之使用者體驗�
 
 
 <details>
-  <summary><h2>網頁服務狀態</h2></summary>
+  <summary><h1>網頁服務狀態</h1></summary>
   
 更多資訊 : [**Better Uptime**](https://status.newmd.eu.org)
   

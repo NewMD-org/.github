@@ -33,7 +33,7 @@ NewMD 是一個致力於改善現有明道中學課表網頁之使用者體驗�
 
   #### 網站 : [newmd.eu.org](https://newmd.eu.org "NewMD's website")
   
-<p><h3>🌟<a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a> 已經正式上線了 !</h3></p>
+  <p><h3>🌟<a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a> 已經正式上線了 !</h3></p>
 
   框架 :
   - React

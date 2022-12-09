@@ -1,5 +1,7 @@
 <br>
-  <h6><em>中文使用者? 請造訪<a href="https://github.com/NewMD-org/.github/blob/main/profile/README_zh-TW.md">中文版頁面</a></em></h6>
+
+  *如果要訪問中文頁面，請*[***點擊這裡***](https://github.com/NewMD-org/.github/blob/main/profile/README_zh-TW.md)
+  
 </br>
 
 <a href="https://newmd.eu.org">

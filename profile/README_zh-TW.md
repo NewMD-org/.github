@@ -1,6 +1,10 @@
 <br>
-  <h6><em>English user? Feel free to visit <a href="https://github.com/NewMD-org">English page</a></em></h6>
+
+  *To access the English page, please* [***click here***](https://github.com/NewMD-org)
+  
 </br>
+
+
 
 <a href="https://newmd.eu.org">
   <img src="https://i.ibb.co/y0gKj29/logo512.png" align="left" width="150px"/>

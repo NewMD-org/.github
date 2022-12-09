@@ -51,11 +51,11 @@ Our goals are to improve the loading time of the timetable, decrease the chance 
   - MongoDB
 
 <details>
-  <summary><h2>Uptime monitors</h2></summary>
-
-## Frontend status
+  <summary><h1>Uptime monitors</h1></summary>
 
 More details : [**Better Uptime**](https://status.newmd.eu.org)
+
+## Frontend services
 
 ### Netlify deploy status
 
@@ -69,9 +69,7 @@ More details : [**Better Uptime**](https://status.newmd.eu.org)
   <img height="30px" src="https://betteruptime.com/status-badges/v1/monitor/k1y7.svg">
 </a>
 
-## Backend status
-
-More details : [**Better Uptime**](https://status.newmd.eu.org)
+## Backend services
 
 ### Main backend service
 

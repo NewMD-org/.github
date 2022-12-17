@@ -52,6 +52,15 @@ Our goals are to improve the loading time of the timetable, decrease the chance 
   - axios
   - MongoDB
 
+- ### [Configurations](https://github.com/NewMD-org/Configurations "NewMD's Configurations")
+
+  ###### - the configurations for NewMD services.
+
+  - Frontend
+    - [classnameReplacement.json](https://github.com/NewMD-org/Configurations/blob/main/Frontend/classnameReplacement.json)
+  - Backend
+    - [cors.json](https://github.com/NewMD-org/Configurations/blob/main/Backend/cors.json)
+
 <details>
   <summary><h1>Uptime monitors</h1></summary>
 

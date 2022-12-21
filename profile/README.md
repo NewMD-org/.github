@@ -21,15 +21,17 @@ Our goals are to improve the loading time of the timetable, decrease the chance 
 
 <br></br>
 
+<h2>Announcement</h2>
+<a href="https://newmd.eu.org"><img src="https://i.ibb.co/W0WjRL1/logo-web.png" alt="logo-web" border="0" width="250px"></a>
+<p><h3>🌟 Website is now available on <a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a> !</h3></p>
+
+<br></br>
+
 ## Projects
 
-- ### [NewMD-Frontend](https://github.com/NewMD-org/NewMD-Frontend "NewMD's Frontend")
-
-  <a href="https://newmd.eu.org"><img src="https://i.ibb.co/W0WjRL1/logo-web.png" alt="logo-web" border="0" width="250px"></a>
+- ### [NewMD-Frontend-Next](https://github.com/NewMD-org/NewMD-Frontend-Next "NewMD's Frontend")
 
   ###### - a beautiful & faster version of Mingdao high school's timetable website.
-
-  <p><h3>🌟Website is now available on <a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a> !</h3></p>
 
   Framwork :
   - React
@@ -44,6 +46,7 @@ Our goals are to improve the loading time of the timetable, decrease the chance 
   ###### - the backend API for NewMD website.
 
   Framwork :
+  - Next.js
   - Express.js
 
   Technologies used in development :

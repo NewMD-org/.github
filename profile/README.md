@@ -22,8 +22,11 @@ Our goals are to improve the loading time of the timetable, decrease the chance 
 <br></br>
 
 <h2>Announcement</h2>
-<a href="https://newmd.eu.org"><img src="https://i.ibb.co/W0WjRL1/logo-web.png" alt="logo-web" border="0" width="250px"></a>
+<a href="https://newmd.eu.org"><img src="https://i.ibb.co/W0WjRL1/logo-web.png" alt="logo-web" border="0" width="400px"></a>
 <p><h3>🌟 Website is now available on <a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a> !</h3></p>
+
+### Latest update
+- Move the frontend platform to Next.js
 
 <br></br>
 

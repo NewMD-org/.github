@@ -26,7 +26,7 @@ Our goals are to improve the loading time of the timetable, decrease the chance 
 <p><h3>🌟 Website is now available on <a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a> !</h3></p>
 
 ### Latest update
-- Move the frontend platform to Next.js
+- Move the frontend  to Next.js
 
 <br></br>
 
@@ -36,8 +36,8 @@ Our goals are to improve the loading time of the timetable, decrease the chance 
 
   ###### - a beautiful & faster version of Mingdao high school's timetable website.
 
-  Framwork :
-  - React
+  Framework :
+  - Next.js
 
   Technologies used in development :
   - Node.js
@@ -48,8 +48,7 @@ Our goals are to improve the loading time of the timetable, decrease the chance 
 
   ###### - the backend API for NewMD website.
 
-  Framwork :
-  - Next.js
+  Framework :
   - Express.js
 
   Technologies used in development :

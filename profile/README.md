@@ -69,7 +69,7 @@ Our goals are to improve the loading time of the timetable, decrease the chance 
 <details>
   <summary><h1>Uptime monitors</h1></summary>
 
-More details : [**Better Uptime**](https://status.newmd.eu.org)
+### More details : [**Uptime Kuma**](https://uptime.newmd.eu.org/)
 
 ## Frontend services
 

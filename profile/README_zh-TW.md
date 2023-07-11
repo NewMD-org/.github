@@ -59,15 +59,9 @@ NewMD 是一個致力於改善現有明道中學課表網頁之使用者體驗�
 <details>
   <summary><h1>網頁服務狀態</h1></summary>
   
-更多資訊 : [**Better Uptime**](https://status.newmd.eu.org)
+### 更多資訊 : [**Uptime Kuma**](https://uptime.newmd.eu.org/)
   
 ## 前端服務
-
-### Netlify 佈署狀態
-
-<a href="https://app.netlify.com/sites/newmd/deploys" target="_blank" title="Netlify Status">
-  <img height="30px" src="https://api.netlify.com/api/v1/badges/dec77407-0f75-4f3d-9cd5-d4a85b902df1/deploy-status">
-</a>
 
 ### 主頁狀態
 

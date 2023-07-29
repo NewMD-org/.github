@@ -1,6 +1,6 @@
 <br>
 
-  *如果要訪問中文頁面，請*[***點擊這裡***](https://github.com/NewMD-org/.github/blob/main/profile/README_zh-TW.md)
+  *如果要造訪中文頁面，請*[***點擊這裡***](https://github.com/NewMD-org/.github/blob/main/profile/README_zh-TW.md)
   
 </br>
 

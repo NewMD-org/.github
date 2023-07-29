@@ -26,7 +26,9 @@ Our goals are to improve the loading time of the timetable, decrease the chance 
 <p><h3>🌟 Website is now available on <a href="https://newmd.eu.org" title="NewMD's website">newmd.eu.org</a> !</h3></p>
 
 ### Latest update
-- Move the frontend  to Next.js
+- Fully localize whole website to Chinese
+- Update login UI
+- Improve user experience
 
 <br></br>
 
@@ -75,28 +77,34 @@ Our goals are to improve the loading time of the timetable, decrease the chance 
 
 ### Main home page status
 
-<a href="https://status.newmd.eu.org" target="_blank" title="Betteruptime Status">
-  <img height="30px" src="https://betteruptime.com/status-badges/v1/monitor/k1y7.svg">
+<a href="https://uptime.newmd.eu.org" target="_blank" title="Uptime Kuma Status">
+  <img height="30px" src="https://uptime.on-cloud.eu.org/api/badge/1/uptime?style=for-the-badge">
 </a>
-
-### Backup home page status
-
-<a href="https://status.newmd.eu.org" target="_blank" title="Betteruptime Status">
-  <img height="30px" src="https://betteruptime.com/status-badges/v1/monitor/k2wr.svg">
+<br/>
+<a href="https://uptime.newmd.eu.org" target="_blank" title="Uptime Kuma Status">
+  <img height="30px" src="https://uptime.on-cloud.eu.org/api/badge/1/avg-response?style=for-the-badge">
 </a>
 
 ## Backend services
 
 ### Main backend service
 
-<a href="https://status.newmd.eu.org" target="_blank" title="Betteruptime Status">
-  <img height="30px" src="https://betteruptime.com/status-badges/v1/monitor/k0tq.svg">
+<a href="https://uptime.newmd.eu.org" target="_blank" title="Uptime Kuma Status">
+  <img height="30px" src="https://uptime.on-cloud.eu.org/api/badge/2/uptime?style=for-the-badge">
+</a>
+<br/>
+<a href="https://uptime.newmd.eu.org" target="_blank" title="Uptime Kuma Status">
+  <img height="30px" src="https://uptime.on-cloud.eu.org/api/badge/2/avg-response?style=for-the-badge">
 </a>
 
 ### Backup backend service
 
-<a href="https://status.newmd.eu.org" target="_blank" title="Betteruptime Status">
-  <img height="30px" src="https://betteruptime.com/status-badges/v1/monitor/k1xv.svg">
+<a href="https://uptime.newmd.eu.org" target="_blank" title="Uptime Kuma Status">
+  <img height="30px" src="https://uptime.on-cloud.eu.org/api/badge/3/uptime?style=for-the-badge">
+</a>
+<br/>
+<a href="https://uptime.newmd.eu.org" target="_blank" title="Uptime Kuma Status">
+  <img height="30px" src="https://uptime.on-cloud.eu.org/api/badge/3/avg-response?style=for-the-badge">
 </a>
 
 </details>
